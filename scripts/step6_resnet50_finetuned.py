@@ -1,3 +1,11 @@
+# ================================================
+# 62533 Applied Machine Learning and Big Data
+# Brain Tumour MRI Classification
+# Author: Simin Asadi
+# Study Number: s234955
+# Date: May 2026
+# ================================================
+
 from pathlib import Path
 import copy
 import numpy as np
