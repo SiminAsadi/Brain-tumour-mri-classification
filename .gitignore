@@ -1,0 +1,6 @@
+data/
+*.jpg
+*.jpeg
+*.png
+figures/
+models/
