@@ -1,3 +1,11 @@
+# ================================================
+# 62533 Applied Machine Learning and Big Data
+# Brain Tumour MRI Classification
+# Author: Simin Asadi
+# Study Number: s234955
+# Date: May 2026
+# ================================================
+
 import numpy as np
 from pathlib import Path
 from sklearn.metrics import classification_report, confusion_matrix
